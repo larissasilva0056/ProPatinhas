@@ -35,6 +35,4 @@ Os links para acesso aos protótipos e materiais do projeto estão disponíveis 
 * InteliProjeto desenvolvido como atividade acadêmica, com planejamento, modelagem e design elaborados pela equipe responsável pelo ProPatinhas.gência Artificial para apoio na identificação de características dos animais
 
 ## Autores
-Larissa Souza Da Silva e Silva 
-Iago colt 
-Pedro 
+Larissa Souza Da Silva e Silva, Pedro Henrique Nascimento de Castro, Iago Colt Borges da Silva.
