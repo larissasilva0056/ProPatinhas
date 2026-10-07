@@ -2,7 +2,7 @@
 
  Sobre o Projeto
 
-ProPatinhas é uma plataforma desenvolvida com o objetivo de auxiliar no cadastro, acompanhamento e adoção responsável de animais, proporcionando uma experiência simples, intuitiva e acessível para usuários e instituições de proteção animal.
+O ProPatinhas é uma plataforma desenvolvida com o objetivo de otimizar o cadastro, o acompanhamento e a adoção responsável de animais. O projeto é focado na experiência do utilizador (UX) e no design de interfaces, proporcionando uma jornada simples, intuitiva e acessível tanto para utilizadores quanto para instituições de proteção animal.
 
 #Design e Prototipação
 
@@ -35,4 +35,4 @@ Os links para acesso aos protótipos e materiais do projeto estão disponíveis 
 * InteliProjeto desenvolvido como atividade acadêmica, com planejamento, modelagem e design elaborados pela equipe responsável pelo ProPatinhas.gência Artificial para apoio na identificação de características dos animais
 
 ## Autores
-Larissa Souza Da Silva e Silva, Pedro Henrique Nascimento de Castro, Iago Colt Borges da Silva.
+Larissa Souza Da Silva e Silva
